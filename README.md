@@ -1,14 +1,16 @@
 # git-with-partners
 
-Travis' Edit
+How to BRANCH
 
-Anais' Edit
+```
+    Start on "main"
+    git checkout -b feature-branch-name
 
-Anais' second edit
+    ... do work
 
-git remote add [PARTNER NAME] [PARTNER URL for Github]
+    git add .
+    git commit -m
+    git push origin feature-branch-name
 
-push changes to drivers github
-the navigator then does a pull from their partner's orgin
-
-- navigator does a push to their github
+    Do a PR Request on github
+```
