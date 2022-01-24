@@ -1,0 +1,3 @@
+- Learn Git branch
+- be awesome
+- create a cool site
